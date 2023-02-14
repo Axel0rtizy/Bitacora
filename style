@@ -1,0 +1,108 @@
+/* Generales*/
+
+h1{
+    font-size: 60px;
+    color: red;
+}
+
+h2{
+    font-size: 35px;
+}
+
+
+.fecha{
+    font-size: 15px;
+    border: 0px;
+    border-style: solid;
+    width: 1300px;
+    position: relative;
+    left: 0.9%;
+}
+
+p {
+    font-size: 20px;
+    font-style: arial;
+    border: 0px;
+    border-style: solid;
+    width: 1294px;
+    position: relative;
+    left: 1.0%;
+}
+
+img{
+    width: 250px;
+}
+
+/* Clase 1*/
+
+.txthtml{
+    border: 0px;
+    border-style: solid;
+    width: 700px;
+}
+
+.ttlhtml{
+    font-size: 25.3px;
+    border: 0px;
+    border-style: solid;
+    width: 700px;
+    
+}
+
+.tablahtml{
+    border: 0px;
+    border-style: solid;
+    width: 297px;
+    position: relative;
+    left: 0.58%;
+}
+
+#imghtml{
+    width: 150px;
+}
+
+/*Segunda clase*/
+
+#ttlgithub{
+    font-size: 25.3px;
+    border: 0px;
+    border-style: solid;
+    width: 700px;
+}
+
+#txtgithub{
+    border: 0px;
+    border-style: solid;
+    width: 700px;
+}
+
+#imggithub{
+    width: 290px;
+}
+
+/*Cuarta clase*/
+
+#ttlcss{
+    border:0px;
+    border-style: solid;
+    width: 215px;
+}
+
+#contttl{
+    border: 0px;
+    border-style: solid;
+    width: 70px;
+}
+
+.txtcss{
+    border: 0px;
+    border-style: solid;
+    width: 650px;
+}
+
+.ttlcss{
+    font-size: 25.3px;
+    border: 0px;
+    border-style: solid;
+    width: 700px;
+}
